@@ -4,39 +4,24 @@ Este proyecto contiene la solución a cuatro ejercicios prácticos sobre estruct
 
 ---
 
-## Identificación del Estudiante (Obligatorio)
-
-Antes de comenzar a programar o ejecutar el proyecto, **debes completar tu nombre y correo institucional en el archivo `student.env`** que se encuentra en la raíz del proyecto. Este archivo es necesario para validar tu identidad como autor del trabajo.
-
-### ¿Por qué es obligatorio?
-
-Este proyecto utiliza una verificación automática que valida que has ingresado tu información personal. Si no lo haces:
-
-- Al ejecutar el proyecto (`App.java`) verás este mensaje de error:
-```
-❌ Debes completar STUDENT_NAME y STUDENT_EMAIL en student.env
-```
-- No podrás enviar tu código (`push`) al repositorio si tienes activado el sistema de validación local.
-- Las pruebas automáticas en GitHub Actions también fallarán si no detectan tu nombre y correo.
-
-### ¿Qué debo hacer?
-
-1. Abre el archivo `student.env` que ya está creado en el proyecto.
-2. Rellena tus datos:
-
-```
-STUDENT_NAME=Tu Nombre Completo
-STUDENT_EMAIL=tu.correo@institucion.edu.ec
-```
-
-
-3. **No borres estas líneas ni cambies los nombres de las variables.**
-4. Guarda los cambios y vuelve a ejecutar el programa o hacer push.
-
-> 💡 Este mecanismo asegura la autoría del código y que cada estudiante reciba su evaluación automática de forma personalizada.
+## 📌 Identificación del Estudiante (Obligatorio)
+- **Título:** Estructuras No Lineales
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiante:** Bryan Barros
+- **Fecha:** 07/07/2025
+- **Profesor:** Ing. Pablo Torres
 
 ---
+## 🎯 Objetivo
+Aplicar y reforzar los conocimientos sobre estructuras de datos no lineales, mediante la implementación de algoritmos fundamentales con árboles binarios en Java.
+Se desarrollaron ejercicios prácticos que abarcan inserción en árboles binarios de búsqueda (BST), inversión de árboles, recorrido por niveles y cálculo de profundidad máxima, fomentando el pensamiento lógico, el análisis recursivo y el manejo eficiente de estructuras enlazadas.
 
+URL del Repositorio:https://github.com/Bryan-BarrosV/icc-est-u2-estNoLin-ejercicios.git
+---
+
+## 📊 Resultado Final
+![Resultado de Ejecución](image.png)
 
 
 
